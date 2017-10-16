@@ -1,0 +1,5 @@
+G:\STUDIA\Programowanie Obiektowe\Ćwiczenia\2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+G:\STUDIA\Programowanie Obiektowe\Ćwiczenia\2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+G:\STUDIA\Programowanie Obiektowe\Ćwiczenia\2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+G:\STUDIA\Programowanie Obiektowe\Ćwiczenia\2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+G:\STUDIA\Programowanie Obiektowe\Ćwiczenia\2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
